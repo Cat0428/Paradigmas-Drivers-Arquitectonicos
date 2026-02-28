@@ -133,6 +133,7 @@ Ejecutar Pruebas
 
 gradlew test
 
+
 🔮 Posibles Mejoras Futuras
 
 Integración con base de datos (JPA/Hibernate)
